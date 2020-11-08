@@ -16,7 +16,7 @@ foo@bar: npm install adca-template-parser --save
 ### Import openssl module:
 
 ```javascript
-const adtparser = require("adtparser");
+const adtparser = require("adca-template-parser");
 ```
 
 ### We can now execute the adtparser binary:
