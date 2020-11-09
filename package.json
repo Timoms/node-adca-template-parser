@@ -1,6 +1,6 @@
 {
   "name": "adca-template-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a bridge between certutil -v -template and JS",
   "main": "src/index.js",
   "scripts": {
